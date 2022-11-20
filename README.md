@@ -1,5 +1,5 @@
 
-## _AWS solutions architecht certified Cloud Engineer_
+## _AWS solutions architect certified Cloud Engineer_
 
 [![N|Solid](https://cldup.com/dTxpPi9lDf.thumb.png)](https://nodesource.com/products/nsolid)
 
